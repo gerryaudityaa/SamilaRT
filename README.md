@@ -54,10 +54,6 @@ python samilart.py
 - The generated images are saved as PNG files in the current directory.
 - You can view the generated images using the `show` command.
 
-## Credits
-
-- Samila library - [sepandhaghighi](https://github.com/sepandhaghighi)
-
 Please make sure you have the necessary permissions and dependencies to run the program. For more information and usage examples, refer to the source code and the comments within.
 
 Enjoy creating art with SamilaRT!
