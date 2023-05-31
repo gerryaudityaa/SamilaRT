@@ -2,6 +2,9 @@
 
 SamilaRT is a program for generating artistic images using random mathematical functions. The program utilizes the Samila library and provides various options for generating and visualizing art.
 
+Example :
+![Example Image](example_image.png)
+
 ## Installation
 
 1. Make sure you have Python 3.6 or a newer version installed on your computer. You'll also need pip to manage Python dependencies.
