@@ -60,3 +60,4 @@ python samilart.py
 Please make sure you have the necessary permissions and dependencies to run the program. For more information and usage examples, refer to the source code and the comments within.
 
 Enjoy creating art with SamilaRT!
+Visit my [OpenSea](https://opensea.io/Particleverse/collected) for more example.
